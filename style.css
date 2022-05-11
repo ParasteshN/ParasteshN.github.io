@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'font golabi';
+    src: url(./Updock/Updock-Regular.ttf);
+}
+@font-face {
+    font-family: 'font golabi 2';
+    src: url(./Raleway/Raleway-VariableFont_wght.ttf);
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    font-family: "font golabi";
+    align-items: center;
+    font-size: 200%;
+}
+.header>h1{
+    color: #009957;
+}
+.my_picture{
+    height: 250px;
+    width: 220px;
+    border-radius: 100px;
+    border: 50px;
+    border-color: #009957;
+}
+.fonts{
+    font-family: "font golabi 2";
+    color: #002830;
+}
+.ada{
+    text-decoration: none;
+    color: #008b5f;
+}
+.ada_pic{
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+    text-align: right;
+}
+.ada_page{
+    display: flex;
+    justify-content: space-between;
+}
+.fonts_haha{
+    font-family: "font golabi 2";
+    color: #87c7a1;
+    font-size: 0.000001%;
+}
